@@ -1,6 +1,4 @@
-Certainly, let's tailor the README to focus solely on the project itself:
-
-# Project Title
+# Foodmine!
 
 This project is a comprehensive web application built using Angular for the frontend and Express.js with MongoDB for the backend. It encompasses various functionalities including user authentication, cart management, order processing, and payment integration.
 
@@ -15,7 +13,7 @@ The project aims to provide a seamless online food ordering experience for users
 1. **Clone the Repository:**
 
    ```
-   git clone <repository_url>
+   git clone https://github.com/Abhisheksingh734/foodmine
    ```
 
 2. **Navigate to Frontend Directory:**
